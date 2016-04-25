@@ -12,7 +12,7 @@ Prepare
 Build
 -----
 
-* msbuild Mono.Options.targets
+* `msbuild Mono.Options.targets`
 or
-* XSLTPROC=xsltproc xbuild Mono.Options.targets
+* `XSLTPROC=xsltproc xbuild Mono.Options.targets`
 
